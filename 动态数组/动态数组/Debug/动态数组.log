@@ -1,0 +1,15 @@
+﻿  dynamicArray.c
+E:\C&C++ project\数据结构\动态数组\动态数组\dynamicArray.c(11,3): warning C4033: “init_DynamicArray”必须返回值
+E:\C&C++ project\数据结构\动态数组\动态数组\dynamicArray.c(23,2): warning C4033: “init_DynamicArray”必须返回值
+E:\C&C++ project\数据结构\动态数组\动态数组\dynamicArray.c(45,10): warning C4022: “memcpy”: 指针与实参 1 不匹配
+  动态数组.c
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(18,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe5”未知
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(18,47): warning C4474: printf: 格式字符串中传递的参数太多
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(18,47): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(30,48): warning C4013: “init_DynamicArray”未定义；假设外部返回 int
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(48,45): warning C4113: “int (__cdecl *)(void *,void *)”和“void (__cdecl *)(void *)”的参数列表不同
+E:\C&C++ project\数据结构\动态数组\动态数组\动态数组.c(30,1): warning C4047: “初始化”:“dynamicArray *”与“int”的间接级别不同
+  正在生成代码...
+E:\C&C++ project\数据结构\动态数组\动态数组\dynamicArray.c(24): warning C4715: “init_DynamicArray”: 不是所有的控件路径都返回值
+  动态数组.vcxproj -> E:\C&C++ project\数据结构\动态数组\Debug\动态数组.exe
